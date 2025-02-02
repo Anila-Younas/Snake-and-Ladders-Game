@@ -22,4 +22,3 @@ g++ -o main main.cpp
 
 ## Technologies Used
 C++
-## Screenshots
