@@ -17,6 +17,7 @@ A console-based Snakes and Ladders game implemented in C++
    
 ### 3. Compile and run the program using a C++ compiler:
 g++ -o main main.cpp
+
 .\main
 
 ## Technologies Used
