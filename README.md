@@ -11,7 +11,6 @@ A console-based Snakes and Ladders game implemented in C++
 ## How to Run the Game
 ### 1. Open Visual Studio Code and clone repository using this command:
 git clone "https://github.com/Anila-Younas/Snake-and-Ladders-Game"
-
                          or 
                          
 Download the repository and open it directly in VS Code. 
