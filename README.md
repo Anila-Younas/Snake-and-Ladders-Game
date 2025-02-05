@@ -13,7 +13,7 @@ A **console-based Snakes and Ladders game** implemented in C++, supporting two p
 ### 📥 Download the Project
 Clone the repository using Git:
 
-git clone "https://github.com/Anila-Younas/Snake-and-Ladders-Game"
+git clone https://github.com/Anila-Younas/Snake-and-Ladders-Game
 
 Or download the ZIP and extract it manually.
 
